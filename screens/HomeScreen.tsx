@@ -24,7 +24,7 @@ const HomeScreen = () => {
             style={{
               resizeMode: "contain",
             }}
-            className="w-40 h-20"
+            className="w-40 h-24"
           />
           <TouchableOpacity
             onPress={() => navigation.navigate("Paywall")}
